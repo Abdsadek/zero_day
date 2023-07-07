@@ -1,5 +1,5 @@
 # Vagrant - or - how to code in your local computer
-##Learning Objectives
+## Learning Objectives
 This is my first repository as a full-stack engineer
 * What is a virtual machine
 * What is Vagrant
